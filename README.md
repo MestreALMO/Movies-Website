@@ -52,7 +52,7 @@
 
 [Here is the original link of the challenge](https://www.notion.so/Desafio-02-Componentizando-a-aplica-o-b9f0f025c95b437699d0c3115f55b0f1)
 <br />
-Challenge is completed! This one was to componentize the aplication in two different files, sidebar and content. There is a React based back-end with the information need to be used
+Challenge is completed! This one was to componentize the aplication in two different files, sidebar and content. There is a React based back-end with the information needed to be used
 
 
 <!-- GETTING STARTED -->
